@@ -51,7 +51,7 @@
   <a target="_blank" href="https://dev.to/iamdevsajjad">
     <img src="https://img.shields.io/badge/-iamdevsajjad-black?style=flat-square&logo=dev.to&logoColor=white" alt="YouTube Badge">
   </a>
-  <a target="_blank" href="https://youtube.com/@deskofnoyon">
-    <img src="https://img.shields.io/badge/-deskofnoyon-CD201F?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
+  <a target="_blank" href="https://youtube.com/@iamdevsajjad">
+    <img src="https://img.shields.io/badge/-iamdevsajjad-CD201F?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
   </a>
 </div>
