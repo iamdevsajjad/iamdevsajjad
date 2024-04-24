@@ -2,7 +2,7 @@
 
 <img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=iamdevsajjad&data=followers,repositories,stars,commits' alt='banner-image'>
 
-<img align="right" alt="Coding animation GIF" style="border-radius: 5px" src="./assets/images/coding.gif" width="250"/>
+<img align="right" alt="Coding animation GIF" style="border-radius: 5px" src="./assets/images/coding.gif" width="320"/>
 
 ### I'm a JavaScript Lover 😍 & Python Fan 🐍
 
